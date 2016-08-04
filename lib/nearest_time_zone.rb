@@ -5,12 +5,9 @@ require "require_all"
 require_rel "./nearest_time_zone"
 
 module NearestTimeZone
-
   def self.to(latitude, longitude)
     nearest_city = City.nearest(latitude, longitude)
-    if nearest_city.present?
-      nearest_city.time_zone.name
-    end
+    nearest_city.time_zone.name unless nearest_city.nil?
   end
 
   def self.dump
