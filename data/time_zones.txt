@@ -386,3 +386,4 @@
 386,Africa/Johannesburg
 387,Africa/Lusaka
 388,Africa/Harare
+389,Pacific/Midway
