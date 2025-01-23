@@ -148,7 +148,7 @@
 148,America/Cayenne
 149,Africa/Accra
 150,Europe/Gibraltar
-151,America/Godthab
+151,America/Nuuk
 152,Africa/Banjul
 153,Africa/Conakry
 154,America/Guadeloupe
@@ -218,7 +218,7 @@
 218,Pacific/Kwajalein
 219,Europe/Skopje
 220,Africa/Bamako
-221,Asia/Rangoon
+221,Asia/Yangon
 222,Asia/Hovd
 223,Asia/Ulaanbaatar
 224,Asia/Choibalsan
@@ -336,9 +336,9 @@
 336,Asia/Taipei
 337,Africa/Dar_es_Salaam
 338,Europe/Simferopol
-339,Europe/Kiev
-340,Europe/Zaporozhye
-341,Europe/Uzhgorod
+339,Europe/Kyiv
+340,Europe/Kyiv
+341,Europe/Kyiv
 342,Africa/Kampala
 343,America/Chicago
 344,America/New_York
